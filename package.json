@@ -1,0 +1,12 @@
+{
+  "name": "cv-pdf-generator",
+  "version": "1.0.0",
+  "description": "Generates PDF from CV HTML",
+  "main": "generate-pdf.js",
+  "scripts": {
+    "generate": "node generate-pdf.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}
